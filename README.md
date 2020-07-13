@@ -22,7 +22,7 @@ This link is available only in view only mode. If there is any clarification req
 * Prefer javascript based styling approach, JSS/styled-components etc.
 * Write tests using jest and react-testing-library
 * The page(s) should be mobile and desktop friendly. They should render properly on both.
-* Other design choices are left to the candidate
+* Other design choices are left to the candidate eg; Leverage either node js based API for client-server integration or we do use firebase internally.
 * Update the read me file to run the code
 * Raise a pull request for review
 
