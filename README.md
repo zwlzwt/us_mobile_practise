@@ -12,7 +12,12 @@ Internally we use Figma to share UX designs with front end engineers. The UX des
 
 https://www.figma.com/file/WJW4Eb8cFSJgOgOK6lZgOl/USM-Sign-up-Engineering-Assignment?node-id=0%3A1
 
-This link is available only in view only mode. If there is any clarification required, Please do reach out to the hiring manager.
+Hover & Button Prototype: https://www.figma.com/proto/zZczN3OAd5WIomNzxei8k5/Engineering-Assignment-Sign-up?node-id=107%3A673&viewport=723%2C968%2C0.12644416093826294&scaling=min-zoom
+
+* This last one is just the behaviour for the hover on each box and also how it looks when you click on the checkmark and the button becomes active.
+* To double check and make 100% clear, the button will only become active after all the boxes have been filled correctly and the checkmark has also been clicked. This example is just to show the behaviour of the elements.
+
+The links are available only in view only mode. If there is any clarification required, Please do reach out to the hiring manager.
 
 ## Engineering Constraints
 
