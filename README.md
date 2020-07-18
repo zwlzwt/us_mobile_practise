@@ -19,6 +19,8 @@ Hover & Button Prototype: https://www.figma.com/proto/zZczN3OAd5WIomNzxei8k5/Eng
 
 The links are available only in view only mode. If there is any clarification required, Please do reach out to the hiring manager.
 
+Some of the fonts might required a paid version. The ones that we use can be found in the font directory.
+
 ## Engineering Constraints
 
 * Create a feature branch. Naming convention to follow is feature/signup_page_<Name of the candidate> 
