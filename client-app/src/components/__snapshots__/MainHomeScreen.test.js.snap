@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly react-test-renderer 1`] = `
+<React.Fragment>
+  <React.Fragment>
+    <ForwardRef(styled.img)
+      alt="logo"
+      src="Logo.png"
+    />
+    <ForwardRef(styled.p)>
+      Welcome to US Mobile
+    </ForwardRef(styled.p)>
+    <ForwardRef(styled.p)>
+      Custome ℇ unlimited prepaid plans for everyone on the 
+      <b>
+        2 best LTE networks
+      </b>
+       in America.
+    </ForwardRef(styled.p)>
+    <ForwardRef(styled.button)
+      onClick={[Function]}
+    >
+      SIGN UP
+    </ForwardRef(styled.button)>
+  </React.Fragment>
+</React.Fragment>
+`;

@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly react-test-renderer 1`] = `
+<React.Fragment>
+  <ForwardRef(styled.img)
+    alt="logo"
+    src="Logo.png"
+  />
+  <ForwardRef(styled.p)>
+    Start saving today!
+  </ForwardRef(styled.p)>
+  <ForwardRef(styled.div)>
+    <Input
+      error=""
+      handleChange={[Function]}
+      label="First Name"
+      margin="15px"
+      name="firstName"
+      type="text"
+      value=""
+      widthStyle="47%"
+    />
+    <Input
+      error=""
+      handleChange={[Function]}
+      label="Last Name"
+      name="lastName"
+      type="text"
+      value=""
+      widthStyle="47%"
+    />
+    <Input
+      error=""
+      handleChange={[Function]}
+      label="Email"
+      name="email"
+      type="text"
+      value=""
+      widthStyle="100%"
+    />
+    <Input
+      check={true}
+      error=""
+      handleChange={[Function]}
+      hide={true}
+      label="Create a password"
+      name="password"
+      type="text"
+      value=""
+      widthStyle="100%"
+    />
+    <CheckBox
+      checked={false}
+      onChange={[Function]}
+    />
+    <SubmitButton
+      disable={true}
+      values={
+        Object {
+          "checked": false,
+          "email": "",
+          "firstName": "",
+          "lastName": "",
+          "password": "",
+        }
+      }
+    />
+  </ForwardRef(styled.div)>
+</React.Fragment>
+`;

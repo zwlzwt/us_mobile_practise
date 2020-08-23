@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly react-test-renderer 1`] = `
+<React.Fragment>
+  <ForwardRef(styled.div)
+    marginValue="0"
+  >
+    <ForwardRef(styled.label) />
+    <ForwardRef(styled.input)
+      onChange={[Function]}
+    />
+  </ForwardRef(styled.div)>
+</React.Fragment>
+`;

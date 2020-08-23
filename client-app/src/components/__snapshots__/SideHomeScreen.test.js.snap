@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly react-test-renderer 1`] = `
+<ForwardRef(styled.aside)>
+  <ForwardRef(styled.div)>
+    <span>
+      A few clicks away from your
+    </span>
+    <span>
+      US Mobile account
+    </span>
+  </ForwardRef(styled.div)>
+  <ForwardRef(styled.div)>
+    <p>
+      About us Mobile
+    </p>
+    <div>
+      <img
+        alt="twitter"
+        src="Twitter.png"
+      />
+      <img
+        alt="linkedin"
+        src="Linkedin.png"
+      />
+      <img
+        alt="facebook"
+        src="Facebook.png"
+      />
+      <img
+        alt="instagram"
+        src="Instagram.png"
+      />
+    </div>
+  </ForwardRef(styled.div)>
+</ForwardRef(styled.aside)>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly react-test-renderer 1`] = `
+<ForwardRef(styled.div)>
+  <input
+    onChange={[Function]}
+    type="checkbox"
+  />
+  <ForwardRef(styled.p)>
+    Agree to the Terms ℇ Privacy policy
+  </ForwardRef(styled.p)>
+</ForwardRef(styled.div)>
+`;
